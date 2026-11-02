@@ -1,0 +1,4 @@
+project_id = "sky-chat"
+
+[functions.livekit-token]
+verify_jwt = true
